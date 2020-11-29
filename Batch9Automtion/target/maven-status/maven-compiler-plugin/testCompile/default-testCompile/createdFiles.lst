@@ -1,0 +1,5 @@
+com/autopractice/tests/DpTest.class
+com/autopractice/tests/RegistrationTest.class
+com/autopractice/tests/LoginTest.class
+com/autopractice/tests/BaseTest.class
+com/autopractice/tests/CartTest.class

@@ -1,0 +1,16 @@
+[INFO] 25 Nov 2020 09:19:32,939 com.autopractice.tests.BaseTest launchBrowser - Chrome Driver Opening
+[INFO] 25 Nov 2020 09:19:38,168 com.autopractice.tests.BaseTest launchBrowser - Chrome Browser Opened
+[INFO] 25 Nov 2020 09:19:40,488 com.autopractice.tests.LoginTest init - Launched url: http://automationpractice.com/index.php
+[INFO] 25 Nov 2020 09:19:41,967 com.autopractice.pages.LandingHomePage nav_LoginPage - Clicked on the SignIn Button
+[INFO] 25 Nov 2020 09:19:41,967 com.autopractice.tests.LoginTest init - Navigated to the Login Page
+[INFO] 25 Nov 2020 09:19:41,979 com.autopractice.pages.LandingHomePage onTestStart - testLoginWithValidCredentials test case started
+[INFO] 25 Nov 2020 09:19:46,374 com.autopractice.tests.BaseTest getTitle - Getting Current Page Title: My account - My Store
+[INFO] 25 Nov 2020 09:19:46,424 com.autopractice.tests.LoginTest testLoginWithValidCredentials - Navigated to the HomePage Page
+[INFO] 25 Nov 2020 09:19:46,508 com.autopractice.tests.LoginTest testLoginWithValidCredentials - Logged out succesfully...Navigated to the Login Page
+[INFO] 25 Nov 2020 09:19:46,511 com.autopractice.pages.LandingHomePage onTestSuccess - testLoginWithValidCredentials test case started
+[INFO] 25 Nov 2020 09:19:47,999 com.autopractice.tests.LoginTest init - Launched url: http://automationpractice.com/index.php
+[INFO] 25 Nov 2020 09:19:53,060 com.autopractice.pages.LandingHomePage onTestStart - testLoginPageWithInvalidCredentials test case started
+[WARN] 25 Nov 2020 09:19:53,064 com.autopractice.pages.LandingHomePage onTestSkipped - The name of the testcase Skipped is :testLoginPageWithInvalidCredentials
+[INFO] 25 Nov 2020 09:19:53,069 com.autopractice.pages.LandingHomePage onTestStart - testLoginPageWithEmptyCredentials test case started
+[WARN] 25 Nov 2020 09:19:53,072 com.autopractice.pages.LandingHomePage onTestSkipped - The name of the testcase Skipped is :testLoginPageWithEmptyCredentials
+[INFO] 25 Nov 2020 09:19:53,153 com.autopractice.tests.BaseTest closeBrowser - Chrome Browser Closed

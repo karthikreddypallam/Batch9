@@ -1,0 +1,8 @@
+com/autopractice/constants/IConstants.class
+com/autopractice/pages/BasePage.class
+com/autopractice/pages/ProductsPage.class
+com/autopractice/pages/LoginPage.class
+com/autopractice/utils/ConfigReader.class
+com/autopractice/pages/RegistrationPage.class
+com/autopractice/pages/HomePage.class
+com/autopractice/pages/LandingHomePage.class
